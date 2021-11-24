@@ -28,3 +28,5 @@ C:\Temp\PCS95\ChotoPoCurseachuUGleba\RtfImportTest\RtfImportTest\obj\Debug\RtfIm
 C:\Temp\PCS95\ChotoPoCurseachuUGleba\RtfImportTest\RtfImportTest\obj\Debug\RtfImportTest.csproj.GenerateResource.Cache
 C:\Temp\PCS95\ChotoPoCurseachuUGleba\RtfImportTest\RtfImportTest\bin\Debug\RtfImportTest.exe
 C:\Temp\PCS95\ChotoPoCurseachuUGleba\RtfImportTest\RtfImportTest\bin\Debug\RtfImportTest.pdb
+C:\Temp\PCS95\ChotoPoCurseachuUGleba\RtfImportTest\RtfImportTest\obj\Debug\QuizPage.baml
+C:\Temp\PCS95\ChotoPoCurseachuUGleba\RtfImportTest\RtfImportTest\obj\Debug\QuizPage.g.cs

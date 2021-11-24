@@ -74,16 +74,20 @@ namespace RtfImportTest
 
         private void MaterialPick(object sender, RoutedEventArgs e)
         {
-            maincontent = this.Content;
-            Material materialPage = new Material(maincontent);
-            this.Content = materialPage.Content;
+            int materialId;
             materialChoice = (sender as Button).Content.ToString();
-            switch (materialChoice)
+            Int32.TryParse(materialChoice, out materialId);
+
+            maincontent = this.Content;
+            Material materialPage = new Material(maincontent, materialId);
+            this.Content = materialPage.Content;
+            
+            switch (materialId)
             {
-                case "1":
+                case 1:
                     docPath = "document1.rtf";
                     break;
-                case "2":
+                case 2:
                     docPath = "document2.rtf";
                     break;
                 default:

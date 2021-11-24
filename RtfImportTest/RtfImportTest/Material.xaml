@@ -14,7 +14,7 @@
         </Grid.RowDefinitions>
         <FlowDocumentScrollViewer x:Name="documentViewer" Grid.Row="1" Initialized="materialRichTextBox_Initialized"/>
         <Label Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" Width="606" Height="34" Margin="66,10,0,0"/>
-        <Button Content="Button" HorizontalAlignment="Left" Grid.Row="2" VerticalAlignment="Top" Width="682" Height="48"/>
+        <Button x:Name="quizButton" Content="Button" HorizontalAlignment="Left" Grid.Row="2" VerticalAlignment="Top" Width="682" Height="48" Click="quizButton_Click"/>
         <Button x:Name="backButton" Content="Назад" HorizontalAlignment="Left" VerticalAlignment="Top" Width="51" Height="29" Margin="10,10,0,0" Click="backButton_Click"/>
     </Grid>
 </Page>

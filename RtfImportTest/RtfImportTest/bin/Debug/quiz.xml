@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Quiz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Quiz QuizId="2">
+    <QuizType>check</QuizType>
+    <QuizText>Какие беты не разочаровали в 2021?</QuizText>
+    <Options>
+      <string>Halo Infinite</string>
+      <string>Call of Duty: Vanguard</string>
+      <string>Battlefield 2042</string>
+    </Options>
+    <Answers>
+      <string>Halo Infinite</string>
+      <string>Call of Duty: Vanguard</string>
+    </Answers>
+  </Quiz>
+  <Quiz QuizId="1">
+    <QuizType>radio</QuizType>
+    <QuizText>Сколько тут правильных ответов?</QuizText>
+    <Options>
+      <string>1</string>
+      <string>2</string>
+      <string>0</string>
+    </Options>
+    <Answers>
+      <string>1</string>
+    </Answers>
+  </Quiz>
+</Quiz>

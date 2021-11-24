@@ -24,11 +24,13 @@ namespace RtfImportTest
     public partial class Material : Page
     {
         object content;
+        int materialId;
 
-        public Material(object maincontent)
+        public Material(object maincontent, int materialId)
         {
             InitializeComponent();
             content = maincontent;
+            this.materialId = materialId;
         }
 
         private void materialRichTextBox_Initialized(object sender, EventArgs e)
@@ -37,6 +39,13 @@ namespace RtfImportTest
 
         public void backButton_Click(object sender, RoutedEventArgs e)
         {
+            Application.Current.MainWindow.Content = content;
+        }
+
+        private void quizButton_Click(object sender, RoutedEventArgs e)
+        {
+            QuizPage quizpage = new QuizPage(materialId);
+            content = quizpage.Content;
             Application.Current.MainWindow.Content = content;
         }
     }
