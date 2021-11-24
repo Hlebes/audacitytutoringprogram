@@ -1,0 +1,32 @@
+c:\users\0309\documents\visual studio 2012\Projects\RtfImportTest\RtfImportTest\bin\Debug\RtfImportTest.exe.config
+c:\users\0309\documents\visual studio 2012\Projects\RtfImportTest\RtfImportTest\bin\Debug\RtfImportTest.exe
+c:\users\0309\documents\visual studio 2012\Projects\RtfImportTest\RtfImportTest\bin\Debug\RtfImportTest.pdb
+c:\users\0309\documents\visual studio 2012\Projects\RtfImportTest\RtfImportTest\obj\Debug\RtfImportTest.csprojResolveAssemblyReference.cache
+c:\users\0309\documents\visual studio 2012\Projects\RtfImportTest\RtfImportTest\obj\Debug\MainWindow.baml
+c:\users\0309\documents\visual studio 2012\Projects\RtfImportTest\RtfImportTest\obj\Debug\Material.baml
+c:\users\0309\documents\visual studio 2012\Projects\RtfImportTest\RtfImportTest\obj\Debug\MainWindow.g.cs
+c:\users\0309\documents\visual studio 2012\Projects\RtfImportTest\RtfImportTest\obj\Debug\Material.g.cs
+c:\users\0309\documents\visual studio 2012\Projects\RtfImportTest\RtfImportTest\obj\Debug\App.g.cs
+c:\users\0309\documents\visual studio 2012\Projects\RtfImportTest\RtfImportTest\obj\Debug\RtfImportTest_MarkupCompile.cache
+c:\users\0309\documents\visual studio 2012\Projects\RtfImportTest\RtfImportTest\obj\Debug\RtfImportTest.g.resources
+c:\users\0309\documents\visual studio 2012\Projects\RtfImportTest\RtfImportTest\obj\Debug\RtfImportTest.Properties.Resources.resources
+c:\users\0309\documents\visual studio 2012\Projects\RtfImportTest\RtfImportTest\obj\Debug\RtfImportTest.csproj.GenerateResource.Cache
+c:\users\0309\documents\visual studio 2012\Projects\RtfImportTest\RtfImportTest\obj\Debug\RtfImportTest.exe
+c:\users\0309\documents\visual studio 2012\Projects\RtfImportTest\RtfImportTest\obj\Debug\RtfImportTest.pdb
+C:\Temp\PCS95\ChotoPoCurseachuUGleba\RtfImportTest\RtfImportTest\bin\Debug\RtfImportTest.exe.config
+C:\Temp\PCS95\ChotoPoCurseachuUGleba\RtfImportTest\RtfImportTest\obj\Debug\RtfImportTest.exe
+C:\Temp\PCS95\ChotoPoCurseachuUGleba\RtfImportTest\RtfImportTest\obj\Debug\RtfImportTest.pdb
+C:\Temp\PCS95\ChotoPoCurseachuUGleba\RtfImportTest\RtfImportTest\obj\Debug\RtfImportTest.csprojResolveAssemblyReference.cache
+C:\Temp\PCS95\ChotoPoCurseachuUGleba\RtfImportTest\RtfImportTest\obj\Debug\MainWindow.baml
+C:\Temp\PCS95\ChotoPoCurseachuUGleba\RtfImportTest\RtfImportTest\obj\Debug\Material.baml
+C:\Temp\PCS95\ChotoPoCurseachuUGleba\RtfImportTest\RtfImportTest\obj\Debug\MainWindow.g.cs
+C:\Temp\PCS95\ChotoPoCurseachuUGleba\RtfImportTest\RtfImportTest\obj\Debug\Material.g.cs
+C:\Temp\PCS95\ChotoPoCurseachuUGleba\RtfImportTest\RtfImportTest\obj\Debug\App.g.cs
+C:\Temp\PCS95\ChotoPoCurseachuUGleba\RtfImportTest\RtfImportTest\obj\Debug\RtfImportTest_MarkupCompile.cache
+C:\Temp\PCS95\ChotoPoCurseachuUGleba\RtfImportTest\RtfImportTest\obj\Debug\RtfImportTest.g.resources
+C:\Temp\PCS95\ChotoPoCurseachuUGleba\RtfImportTest\RtfImportTest\obj\Debug\RtfImportTest.Properties.Resources.resources
+C:\Temp\PCS95\ChotoPoCurseachuUGleba\RtfImportTest\RtfImportTest\obj\Debug\RtfImportTest.csproj.GenerateResource.Cache
+C:\Temp\PCS95\ChotoPoCurseachuUGleba\RtfImportTest\RtfImportTest\bin\Debug\RtfImportTest.exe
+C:\Temp\PCS95\ChotoPoCurseachuUGleba\RtfImportTest\RtfImportTest\bin\Debug\RtfImportTest.pdb
+C:\Temp\PCS95\ChotoPoCurseachuUGleba\RtfImportTest\RtfImportTest\obj\Debug\QuizPage.baml
+C:\Temp\PCS95\ChotoPoCurseachuUGleba\RtfImportTest\RtfImportTest\obj\Debug\QuizPage.g.cs

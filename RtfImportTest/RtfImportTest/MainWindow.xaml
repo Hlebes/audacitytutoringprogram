@@ -1,0 +1,28 @@
+﻿<Window x:Class="RtfImportTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="36*"/>
+            <ColumnDefinition Width="43*"/>
+            <ColumnDefinition Width="20*"/>
+            <ColumnDefinition Width="43*"/>
+            <ColumnDefinition Width="20*"/>
+            <ColumnDefinition Width="43*"/>
+            <ColumnDefinition Width="20*"/>
+            <ColumnDefinition Width="43*"/>
+            <ColumnDefinition Width="418*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="19*"/>
+            <RowDefinition Height="11*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="260*"/>
+        </Grid.RowDefinitions>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="-178,89,0,0" Grid.Row="3" VerticalAlignment="Top" Width="75" Height="22"/>
+        <MenuItem Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="9"/>
+        <Button x:Name="materialButton1" Content="1" Grid.Column="1" Grid.Row="2" VerticalAlignment="Top" Height="30" Click="MaterialPick"/>
+        <Button x:Name="materialButton2" Content="2" Grid.Column="3" HorizontalAlignment="Left" Grid.Row="2" VerticalAlignment="Top" Width="32" Height="30" Click="MaterialPick"/>
+    </Grid>
+</Window>
